@@ -3,6 +3,7 @@
 import os
 import sys
 
+sys.path.append('/workspaces/skills-build-applications-w-copilot-agent-mode/octofit-tracker/backend')
 
 def main():
     """Run administrative tasks."""
